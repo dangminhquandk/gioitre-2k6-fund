@@ -1,0 +1,11 @@
+{
+  "name": "gioitre-2k6-fund",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bảng theo dõi thu quỹ Giới Trẻ 2K6 Lễ Quan Thầy 22/10",
+  "main": "api/members.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
